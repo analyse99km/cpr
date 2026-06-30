@@ -1,0 +1,5 @@
+2026/06/26-02:02:41.258 3bd0 Reusing MANIFEST /home/dhruv/Desktop/cpr4/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/26-02:02:41.258 3bd0 Recovering log #61
+2026/06/26-02:02:41.259 3bd0 Reusing old log /home/dhruv/Desktop/cpr4/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/000061.log 
+2026/06/26-02:02:41.259 3bd0 Delete type=2 #59
+2026/06/26-02:02:41.268 3bcf Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)

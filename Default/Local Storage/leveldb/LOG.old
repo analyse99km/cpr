@@ -1,0 +1,18 @@
+2026/06/26-02:01:55.149 3bf9 Reusing MANIFEST /home/dhruv/Desktop/cpr4/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/26-02:01:55.159 3bf9 Recovering log #117
+2026/06/26-02:01:55.160 3bf9 Reusing old log /home/dhruv/Desktop/cpr4/Default/Local Storage/leveldb/000117.log 
+2026/06/26-02:02:23.094 3bf9 Level-0 table #121: started
+2026/06/26-02:02:23.096 3bf9 Level-0 table #121: 18102 bytes OK
+2026/06/26-02:02:23.099 3bf9 Delete type=0 #117
+2026/06/26-02:02:23.101 3bf9 Compacting 4@0 + 1@1 files
+2026/06/26-02:02:23.109 3bf9 Generated table #122@0: 433 keys, 260479 bytes
+2026/06/26-02:02:23.109 3bf9 Compacted 4@0 + 1@1 files => 260479 bytes
+2026/06/26-02:02:23.110 3bf9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/26-02:02:23.110 3bf9 Delete type=2 #112
+2026/06/26-02:02:23.110 3bf9 Delete type=2 #110
+2026/06/26-02:02:23.110 3bf9 Delete type=2 #118
+2026/06/26-02:02:23.110 3bf9 Delete type=2 #115
+2026/06/26-02:02:23.110 3bf9 Delete type=2 #121
+2026/06/26-02:12:48.619 3bfb Level-0 table #124: started
+2026/06/26-02:12:48.625 3bfb Level-0 table #124: 26617 bytes OK
+2026/06/26-02:12:48.626 3bfb Delete type=0 #120

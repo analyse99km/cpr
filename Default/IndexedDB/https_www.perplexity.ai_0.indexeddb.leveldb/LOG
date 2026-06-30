@@ -1,0 +1,18 @@
+2026/06/26-02:18:10.967 40a4 Creating DB /home/dhruv/Desktop/cpr4/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb since it was missing.
+2026/06/26-02:18:10.977 40a4 Reusing MANIFEST /home/dhruv/Desktop/cpr4/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/26-02:18:11.884 40a5 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/06/26-02:18:41.052 40a3 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/06/26-02:19:03.141 40a5 Level-0 table #5: started
+2026/06/26-02:19:03.171 40a5 Level-0 table #5: 1615461 bytes OK
+2026/06/26-02:19:03.173 40a5 Delete type=0 #3
+2026/06/26-02:19:03.174 40a3 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/06/26-02:19:24.630 40b0 Level-0 table #7: started
+2026/06/26-02:19:24.648 40b0 Level-0 table #7: 1131802 bytes OK
+2026/06/26-02:19:24.650 40b0 Delete type=0 #4
+2026/06/26-02:19:24.651 40a3 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/06/26-02:19:24.803 40a4 Compacting 1@1 + 1@2 files
+2026/06/26-02:19:24.838 40a4 Generated table #8@1: 1208 keys, 553439 bytes
+2026/06/26-02:19:24.839 40a4 Compacted 1@1 + 1@2 files => 553439 bytes
+2026/06/26-02:19:24.846 40a4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/26-02:19:24.848 40a4 Delete type=2 #5
+2026/06/26-02:19:24.849 40a4 Delete type=2 #7

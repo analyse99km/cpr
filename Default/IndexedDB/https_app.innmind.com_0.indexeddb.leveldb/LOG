@@ -1,0 +1,5 @@
+2026/06/26-02:07:33.165 3bce Creating DB /home/dhruv/Desktop/cpr4/Default/IndexedDB/https_app.innmind.com_0.indexeddb.leveldb since it was missing.
+2026/06/26-02:07:33.175 3bce Reusing MANIFEST /home/dhruv/Desktop/cpr4/Default/IndexedDB/https_app.innmind.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/26-02:10:03.476 3bd0 Level-0 table #5: started
+2026/06/26-02:10:03.531 3bd0 Level-0 table #5: 2069797 bytes OK
+2026/06/26-02:10:03.537 3bd0 Delete type=0 #3
